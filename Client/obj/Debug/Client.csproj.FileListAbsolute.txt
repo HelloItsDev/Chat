@@ -1,0 +1,11 @@
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\bin\Debug\Client.exe.config
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\bin\Debug\Client.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\bin\Debug\Client.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\bin\Debug\Interfaces.dll
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\bin\Debug\Interfaces.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\obj\Debug\Client.AuthForm.resources
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\obj\Debug\Client.TopicManForm.resources
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\obj\Debug\Client.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Client\obj\Debug\Client.pdb

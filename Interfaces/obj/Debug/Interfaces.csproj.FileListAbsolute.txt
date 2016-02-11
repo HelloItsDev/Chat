@@ -1,0 +1,5 @@
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Interfaces\bin\Debug\Interfaces.dll
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Interfaces\bin\Debug\Interfaces.pdb
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Interfaces\obj\Debug\Interfaces.dll
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Interfaces\obj\Debug\Interfaces.pdb

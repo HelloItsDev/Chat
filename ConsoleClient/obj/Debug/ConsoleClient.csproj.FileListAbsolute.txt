@@ -1,0 +1,14 @@
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\Interfaces.dll
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\Server.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\Interfaces.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\Server.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\obj\Debug\ConsoleClient.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\Database.mdf
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\Database_log.ldf
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ConsoleClient\bin\Debug\EntityFramework.xml

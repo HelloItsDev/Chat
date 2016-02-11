@@ -1,0 +1,13 @@
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\bin\Debug\ClientForm.exe.config
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\bin\Debug\ClientForm.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\bin\Debug\ClientForm.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\bin\Debug\Interfaces.dll
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\bin\Debug\Interfaces.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.AuthForm.resources
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.exe
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.TopicManForm.resources
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\ClientForm\obj\Debug\ClientForm.chatForm.resources

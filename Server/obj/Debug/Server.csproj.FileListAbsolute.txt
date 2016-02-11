@@ -1,0 +1,14 @@
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\bin\Debug\Server.exe.config
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\bin\Debug\Server.exe
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\bin\Debug\Server.pdb
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\obj\Debug\Server.exe
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\obj\Debug\Server.pdb
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\bin\Debug\Interfaces.dll
+d:\users\moi\documents\visual studio 2015\Projects\ChatF\Server\bin\Debug\Interfaces.pdb
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Server\bin\Debug\Database.mdf
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Server\bin\Debug\Database_log.ldf
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Server\bin\Debug\EntityFramework.dll
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Server\bin\Debug\EntityFramework.xml
+D:\Users\Moi\Documents\Visual Studio 2015\Projects\ChatF\Server\bin\Debug\EntityFramework.SqlServer.xml
